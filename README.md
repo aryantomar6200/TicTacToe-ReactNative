@@ -14,8 +14,8 @@ A cross-platform Tic Tac Toe game built using **React Native**. This project pro
 
 ## Screenshots
 
-![Game Board](#)  
-*(Add screenshots of your app here)*
+![Game Board](./assets/screenshot.png)  
+
 
 ## Installation
 
