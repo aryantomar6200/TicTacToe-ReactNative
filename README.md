@@ -35,38 +35,33 @@ A simple and fun implementation of the classic Tic Tac Toe game built using **Re
 1. **Clone the repository**  
    ```bash
    git clone https://github.com/aryantomar6200/TicTacToe-ReactNative.git
-Navigate to the project directory
 
-bash
-Copy
-Edit
-cd TicTacToe-ReactNative
-Install dependencies
+2. **Navigate to the project directory**
+   ```bash
+   cd TicTacToe-ReactNative
 
-bash
-Copy
-Edit
-npm install
-Start the app
+3. **Install dependencies**
+   ```bash
+    npm install
 
-bash
-Copy
-Edit
-npx expo start
-Scan the QR code with the Expo Go app on your phone to play!
+4. **Start the app**
+   ```bash
+   npx react-native run-android
+
 
 ✅ How to Play
+
 The game is played on a 3x3 grid.
-
 Two players take turns marking the spaces (X and O).
-
 The first player to get 3 of their marks in a row (vertically, horizontally, or diagonally) wins!
-
 If all 9 squares are filled and no player has won, the game ends in a draw.
 
 💡 Future Improvements
+
 Add single-player mode with AI
-
 Implement game history or scoreboard
-
 Add sound effects and animations
+
+📄 License
+
+This project is licensed under the MIT License.
