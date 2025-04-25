@@ -21,11 +21,8 @@ A simple and fun implementation of the classic Tic Tac Toe game built using **Re
 
 ## 📱 Screenshots
 
-![Game Screenshot](./assets/Screenshot 2025-04-25 115220.png)
-
 <p float="left">
-  <img src="./assets/screenshot1.png" width="200" />
-  <img src="./assets/screenshot2.png" width="200" />
+  <img src="./assets/Screenshot%202025-04-25%20115220.png" width="200" />
 </p>
 
 ---
@@ -51,17 +48,25 @@ A simple and fun implementation of the classic Tic Tac Toe game built using **Re
 
 ✅ How to Play
 
+
 The game is played on a 3x3 grid.
+
 Two players take turns marking the spaces (X and O).
+
 The first player to get 3 of their marks in a row (vertically, horizontally, or diagonally) wins!
+
 If all 9 squares are filled and no player has won, the game ends in a draw.
 
 💡 Future Improvements
 
+
 Add single-player mode with AI
+
 Implement game history or scoreboard
+
 Add sound effects and animations
 
 📄 License
+
 
 This project is licensed under the MIT License.
