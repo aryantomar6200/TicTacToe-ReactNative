@@ -1,27 +1,72 @@
-# Tic Tac Toe Game
+A simple and fun implementation of the classic Tic Tac Toe game built using **React Native**. Challenge a friend in two-player mode and enjoy a smooth gaming experience on your mobile device.
 
-A cross-platform Tic Tac Toe game built using **React Native**. This project provides a fun and interactive way to play the classic game of Tic Tac Toe with a clean and responsive user interface.
+---
 
-## Features
+## 🚀 Features
 
-- **Two-player mode**: Play as either "X" or "O".
-- **Dynamic game board**: Updates in real-time as players make their moves.
-- **Win detection**: Automatically detects when a player wins or if the game ends in a draw.
-- **Score tracking**: Keeps track of the number of wins for each player and the number of draws.
-- **Snackbar notifications**: Provides feedback for invalid moves or game results.
-- **Reset and Continue Play**: Options to reset the game or continue playing without resetting the scores.
-- **Responsive UI**: Designed with React Native's `FlatList` and `StyleSheet` for a seamless user experience.
+- 🎮 Two-player mode on the same device  
+- ✨ Responsive UI with clean, intuitive design  
+- 🔁 Reset button to quickly start a new game  
+- 💥 Winning highlight for the player  
+- 🧠 Logic handles all game states including win, draw, and ongoing turns  
 
-## Screenshots
+---
 
-![Game Board](./assets/Screenshot 2025-04-25 115220.png)  
+## 🛠️ Tech Stack
 
+- **React Native**  
+- **JavaScript**   
 
-## Installation
+---
 
-1. Clone the repository:
+## 📱 Screenshots
+
+![Game Screenshot](./assets/Screenshot 2025-04-25 115220.png)
+
+<p float="left">
+  <img src="./assets/screenshot1.png" width="200" />
+  <img src="./assets/screenshot2.png" width="200" />
+</p>
+
+---
+
+## 📦 Installation
+
+1. **Clone the repository**  
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
-   cd tic-tac-toe
+   git clone https://github.com/aryantomar6200/TicTacToe-ReactNative.git
+Navigate to the project directory
 
-   
+bash
+Copy
+Edit
+cd TicTacToe-ReactNative
+Install dependencies
+
+bash
+Copy
+Edit
+npm install
+Start the app
+
+bash
+Copy
+Edit
+npx expo start
+Scan the QR code with the Expo Go app on your phone to play!
+
+✅ How to Play
+The game is played on a 3x3 grid.
+
+Two players take turns marking the spaces (X and O).
+
+The first player to get 3 of their marks in a row (vertically, horizontally, or diagonally) wins!
+
+If all 9 squares are filled and no player has won, the game ends in a draw.
+
+💡 Future Improvements
+Add single-player mode with AI
+
+Implement game history or scoreboard
+
+Add sound effects and animations
